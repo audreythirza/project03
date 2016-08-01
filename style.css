@@ -1,10 +1,24 @@
 * { box-sizing: border-box; }
 
 body {
-	 background-color: #4A4A4A;
+	 background: #4A4A4A;
 	 color: white;
 	 padding: 0 auto;
-	 font-family: 'Abel', sans-serif;
+	 font-family: 'Amatic SC', cursive;
+}
+
+.special-background {
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	z-index: -1;
+}
+
+.special-background img {
+	height: 100%;
+	width: 100%;
 }
 
 h1 {
@@ -13,6 +27,7 @@ h1 {
 
 ul {
 	list-style-type: none;
+	padding: 0;
 }
 
 li {
@@ -68,7 +83,8 @@ hr {
 }
 
 .decoration {
-	position: fixed;
-	bottom: 50px;
-	left: 50px;
+	float: left;
+	margin: 1em;
+	max-width: 500px;
 }
+
