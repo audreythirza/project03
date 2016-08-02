@@ -2,11 +2,11 @@
 
 body {
 	 background: white;
-	 color: white;
+	 color: black;
 	 padding: 0 auto;
 	 font-family: 'Special Elite', cursive;
 	 font size: 1em;
-	 background-image: url(http://www.francesandian.com/images/cool-black-and-white-patterns-zebra-print-pattern.jpg);
+	 /*background-image: url(http://www.francesandian.com/images/cool-black-and-white-patterns-zebra-print-pattern.jpg);*/
 
 }
 
@@ -51,7 +51,7 @@ li:last-child {
 
 a { 
 	text-decoration: none;
-	color: white;
+	color: black;
  }
 
  a.current {
