@@ -38,7 +38,7 @@ li {
 	float: left;
 	width: 20%;
 	text-align: center;
-	border-right: 1px solid white;
+	border-right: 1px solid black;
 }
 
 li:last-child {
@@ -71,7 +71,7 @@ hr {
 	width: 50%;
 	float: left;
 	padding: 10px;
-	border-right: 1px solid black;
+	border-right: 1px solid white;
 	margin-top: 1em;
 }
 
