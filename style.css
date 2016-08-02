@@ -90,3 +90,10 @@ hr {
 	max-width: 500px;
 }
 
+p {
+	color: black;
+	font-size: 7em;
+	text-align:center;
+	vertical-align: center;
+}
+
