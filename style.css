@@ -2,7 +2,7 @@
 
 body {
 	 background: white;
-	 color: white;
+	 color: black;
 	 padding: 0 auto;
 	 font-family: 'Special Elite', cursive;
 	 font size: 1em;
@@ -52,7 +52,7 @@ li:last-child {
 
 a { 
 	text-decoration: none;
-	color: white;
+	color: #A65C0B;
  }
 
  a.current {
