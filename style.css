@@ -135,3 +135,8 @@ p{
 	text-decoration: underline;
 	color: #A65C0B;
 }
+
+.contact {
+	text-align: center;
+	margin: 0px auto;
+}
