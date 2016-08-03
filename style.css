@@ -166,4 +166,6 @@ p{
 	margin: 0px auto;
 }
 
-
+.abouttext {
+	float: right;
+}
