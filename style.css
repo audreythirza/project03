@@ -98,7 +98,7 @@ hr {
 			font-size: 7em;
 			text-align:center;
 			vertical-align: center;
-			animation: pulse 10s ease infinite alternate,
+			animation: pulse 10s ease infinite alternate;
 
 }
 
