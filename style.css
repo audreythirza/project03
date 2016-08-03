@@ -131,3 +131,7 @@ p{
 	vertical-align: middle;
 }
 
+.contactlink{
+	text-decoration: underline;
+	color: #A65C0B;
+}
