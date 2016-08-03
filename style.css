@@ -172,8 +172,10 @@ p{
 }
 
 .digitallist {
-	display: inline-block;
-	width: 330%;
+	/*display: inline-block;*/
+	list-style-type: none;
+	width: 35%;
+	padding: 0;
 }
 
 div#container {
