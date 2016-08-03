@@ -34,6 +34,8 @@ ul {
 	list-style-type: none;
 	padding: 0;
 	width: 35%;
+	margin: 0 auto;
+	margin-top: 1em;
 }
 
 li {
@@ -132,13 +134,21 @@ html, body {
   height: 100%;
 }
 
-body {
+body.home {
   display: flex;
   align-items: center;
   justify-content: center;
 }
 
+body.home h1 {
+	float: left;
+}
 
+body.home ul {
+	float: right;
+	width: 52%;
+	margin-top: 1.75em;
+}
 
 /*#ribbon {
   position:relative;
@@ -183,4 +193,10 @@ p{
 
 div#container {
 	padding: 5em;
+	max-width: 600px;
+	margin: 0 auto;
+}
+
+.home-center {
+	width: 69%;
 }
