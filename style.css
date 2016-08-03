@@ -98,8 +98,7 @@ hr {
 			font-size: 7em;
 			text-align:center;
 			vertical-align: center;
-			animation: pulse 3s ease infinite alternate,
-			nudge 5s linear infinite alternate;
+			animation: pulse 10s ease infinite alternate,
 
 }
 
