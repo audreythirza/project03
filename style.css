@@ -176,7 +176,7 @@ p{
 	list-style-type: none;
 	width: 450%;
 	padding: 0;
-	margin: 0;
+	margin: 8px;
 	display: flex;
 	align-items: center
 }
