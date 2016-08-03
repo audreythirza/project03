@@ -173,6 +173,7 @@ p{
 
 .digitallist {
 	display: inline-block;
+	width: 250%;
 }
 
 div#container {
