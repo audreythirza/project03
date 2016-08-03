@@ -2,11 +2,11 @@
 
 body {
 	 background: black;
-	 color: silver;
+	 color: white;
 	 padding: 0 auto;
 	 font-family: 'Poiret One', cursive;
 	 font size: 1em;
-	 background-image: url(http://protiumdesign.com/wp-content/uploads/2015/02/Empty-Polaroids-Hanging-1024.jpg);
+	 background-image: url(http://66.media.tumblr.com/a165af930e4a351ab758e3525592abaf/tumblr_nrqm32yH3W1r6xm5co1_1280.gif);
 	 background-size: 100%;
 
 }
@@ -52,7 +52,7 @@ li:last-child {
 
 a { 
 	text-decoration: none;
-	color: silver;
+	color: white;
  }
 
  a.current {
