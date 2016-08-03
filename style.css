@@ -4,7 +4,7 @@ body {
 	 background: white;
 	 color: black;
 	 padding: 0 auto;
-	 font-family: 'Special Elite', cursive;
+	 font-family: 'Poiret One', cursive;
 	 font size: 1em;
 	 background-image: url(http://orig09.deviantart.net/3c54/f/2013/271/5/6/black_and_white_fingerprints_by_wriscriseanthorn-d6ob2ky.jpg);
 	 background-size: 100%;
@@ -52,11 +52,11 @@ li:last-child {
 
 a { 
 	text-decoration: none;
-	color: #A65C0B;
+	color: white;
  }
 
  a.current {
- 	color: white;
+ 	color: #A65C0B;
  }
 
  img {
