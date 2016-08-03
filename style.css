@@ -94,10 +94,20 @@ hr {
 }
 
 .comingsoon {
-			color: black;
+			color: white;
 			font-size: 7em;
 			text-align:center;
 			vertical-align: center;
+			animation: pulse 5s infinite;
+}
+
+@keyframes pulse {
+	0%{
+		background color: black;
+	}
+	100%{
+		background-color:white;
+	}
 }
 
 /*#ribbon {
