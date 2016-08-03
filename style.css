@@ -170,3 +170,7 @@ p{
 .abouttext {
 	text-align: right;
 }
+
+.digitallist {
+	display: inline-block;
+}
