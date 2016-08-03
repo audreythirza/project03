@@ -98,9 +98,10 @@ hr {
 			font-size: 7em;
 			text-align:center;
 			vertical-align: center;
-			animation: nudge 5s linear infinite alternate;
-}
+			animation: pulse 3s ease infinite alternate,
+			nudge 5s linear infinite alternate;
 
+}
 
 @keyframes pulse {
 	0%{
